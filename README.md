@@ -1,8 +1,7 @@
 <h3>📌Conteúdos abordados:</h3> 
 
-- Flex-Box 
-- divisões
-- estilização
+- FlexBox 
+- responsividade
 ---
 
 📌Página de login do Instagram: nesse projeto, abordamos conceitos sobre CSS Flexbox e responsividade. 
